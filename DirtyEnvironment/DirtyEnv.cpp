@@ -1,7 +1,7 @@
 #include "windows.h"
 #include <iostream>
 
-static UINT const  broadcastTimeout = 10; // in milliseconds
+static UINT const  broadcastTimeout = 100; // in milliseconds
 
 int main() 
 {
